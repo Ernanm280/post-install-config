@@ -18,7 +18,7 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -100,7 +100,7 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
  <img width="806" height="515" alt="Screenshot 2026-02-26 211625" src="https://github.com/user-attachments/assets/f140ac32-d3ae-4bdf-b940-9d09da1a1f8b" />
 <img width="681" height="334" alt="Screenshot 2026-02-26 211819" src="https://github.com/user-attachments/assets/e07adfa3-9093-4349-8d19-d2c5be8edd0b" />
 
-### Step 7: Configure SLA (Service Level Agreement}
+### Step 7: Configure SLA (Service Level Agreement)
 
 * Accessed the **Admin Panel**.
 * Navigated to **Manage → SLA**.
