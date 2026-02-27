@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.
+This tutorial walks through the post-installation configuration of the open-source help desk ticketing system, osTicket. After installation, several critical administrative settings must be configured to ensure the system functions properly in a real-world support environment. This includes setting up user roles, departments, support agents, service level agreements (SLAs), and ticket help topics.
 
 Admin/Analyst Login Page: [Admin Login](http://localhost/osTicket/scp/login.php)
 
