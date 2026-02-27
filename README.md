@@ -106,4 +106,4 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
 <img width="947" height="736" alt="Screenshot 2026-02-26 213226" src="https://github.com/user-attachments/assets/d8369beb-1e80-4f9c-876a-0a4ed46e2d65" />
 
 ## Conclusion
-These steps complete the post-installation setup for osTicket. With these configurations, you can manage your help desk efficiently and ensure a smooth workflow for both agents and users.
+These steps complete the post-installation setup for osTicket. With these configurations, you can manage your help desk efficiently and ensure a smooth workflow for both agents and users. 
