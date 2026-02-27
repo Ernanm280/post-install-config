@@ -34,9 +34,9 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
 - Navigate to Admin Panel -> Agents -> Roles.
 - Create a role:
   - Supreme Admin
+<img width="948" height="543" alt="Screenshot 2026-02-26 202202" src="https://github.com/user-attachments/assets/955f20e8-2be5-43cb-9c4e-aad1de18a94d" />
+<img width="946" height="432" alt="Screenshot 2026-02-26 204319" src="https://github.com/user-attachments/assets/876ac459-a9a2-428a-b33a-9c60bad7afc4" />
 
-<img width="595" alt="Screenshot 2025-01-23 at 10 47 37 AM" src="https://github.com/user-attachments/assets/dd1f2373-7147-4a4d-9b20-565ea0f363ff" />
-<img width="632" alt="Screenshot 2025-01-23 at 10 47 22 AM" src="https://github.com/user-attachments/assets/9e2b8b13-ffb1-479f-aed5-64f45d590379" />
 
 
 ### Step 2: Configure Departments
@@ -44,23 +44,25 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
 - Create departments for ticket visibility:
   - Example: SysAdmins
  
-<img width="578" alt="Screenshot 2025-01-23 at 10 49 51 AM" src="https://github.com/user-attachments/assets/1e219835-21a6-4987-a193-937a87d7f9b1" />
+<img width="945" height="1098" alt="Screenshot 2026-02-26 204757" src="https://github.com/user-attachments/assets/d1fce6dc-8fc2-4a26-b17a-32f42f19a8cb" />
+<img width="948" height="280" alt="Screenshot 2026-02-26 204847" src="https://github.com/user-attachments/assets/eaa2b8bc-f877-4a09-9e37-f06b62543d5e" />
 
- 
+
 ### Step 3: Configure Teams
 - Navigate to Admin Panel -> Agents -> Teams.
 - Create a team and pull agents from different departments:
   - Example: Online Banking
 
-<img width="558" alt="Screenshot 2025-01-23 at 10 50 11 AM" src="https://github.com/user-attachments/assets/7b0e4f93-e614-400c-b7a0-67e3f7f7e308" />
+<img width="936" height="662" alt="Screenshot 2026-02-26 205125" src="https://github.com/user-attachments/assets/96bd15e1-f882-445e-8227-b830417689aa" />
+
 
 ### Step 4: User Settings
 - Navigate to Admin Panel -> Settings -> User Settings.
 - Configure ticket creation settings:
-  - Uncheck: Unregistered users can create tickets.
-  - Require registration and login to create tickets.
+  - Uncheck: Require registration and login to create tickets.  (Unregistered users can create tickets.)
 
-<img width="537" alt="Screenshot 2025-01-23 at 10 51 11 AM" src="https://github.com/user-attachments/assets/bf61aa9b-d246-40fb-ab72-19a0e4fe4d7e" />
+<img width="675" height="674" alt="Screenshot 2026-02-26 205514" src="https://github.com/user-attachments/assets/12772c00-a1ee-4fe5-974d-e71b4b89303b" />
+
 
 ### Step 5: Configure Agents (Workers)
 - Navigate to Admin Panel -> Agents -> Add New.
@@ -68,11 +70,10 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
   - Jane (Dept: SysAdmins)
   - John (Dept: Support)
  
-<img width="500" alt="Screenshot 2025-01-23 at 10 52 40 AM" src="https://github.com/user-attachments/assets/3bd02a07-516c-487c-a125-8b9a63159fca" />
-<img width="559" alt="Screenshot 2025-01-23 at 10 52 56 AM" src="https://github.com/user-attachments/assets/39bfc106-1a9a-4085-a932-47dc1b35a8d2" />
-<img width="572" alt="Screenshot 2025-01-23 at 10 53 43 AM" src="https://github.com/user-attachments/assets/ecde1247-be9a-443e-a808-c0897ccfe4cc" />
-<img width="534" alt="Screenshot 2025-01-23 at 10 53 57 AM" src="https://github.com/user-attachments/assets/ea57ba21-029f-4ed5-9540-9316843e3849" />
-
+<img width="953" height="470" alt="Screenshot 2026-02-26 210220" src="https://github.com/user-attachments/assets/ecf2b7d7-b7e6-4980-9035-f29bce8dc241" />
+<img width="942" height="526" alt="Screenshot 2026-02-26 210615" src="https://github.com/user-attachments/assets/87188bab-e0d0-4814-8242-34251184e8bf" />
+<img width="948" height="466" alt="Screenshot 2026-02-26 210745" src="https://github.com/user-attachments/assets/94891550-7264-41f7-bf69-6ea88b9a5967" />
+<img width="949" height="369" alt="Screenshot 2026-02-26 210803" src="https://github.com/user-attachments/assets/f7a65a3a-5856-4a8a-b393-80969777fba1" />
 
 ### Step 6: Configure Users (Customers)
 - Navigate to Agent Panel -> Users -> Add New.
@@ -80,9 +81,8 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
   - Karen
   - Ken
 
- <img width="668" alt="Screenshot 2025-01-23 at 10 55 11 AM" src="https://github.com/user-attachments/assets/206151c8-f6ce-4b02-8867-5b4d5f942857" />
-<img width="626" alt="Screenshot 2025-01-23 at 10 55 39 AM" src="https://github.com/user-attachments/assets/b5f4d93b-8314-44a9-9734-0b552e120a3c" />
-
+ <img width="806" height="515" alt="Screenshot 2026-02-26 211625" src="https://github.com/user-attachments/assets/f140ac32-d3ae-4bdf-b940-9d09da1a1f8b" />
+<img width="681" height="334" alt="Screenshot 2026-02-26 211819" src="https://github.com/user-attachments/assets/e07adfa3-9093-4349-8d19-d2c5be8edd0b" />
 
 ### Step 7: Configure SLA
 - Navigate to Admin Panel -> Manage -> SLA.
@@ -91,10 +91,7 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
   - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
   - Sev-C (Grace Period: 8 hours, Business Hours)
 
-<img width="657" alt="Screenshot 2025-01-23 at 10 56 37 AM" src="https://github.com/user-attachments/assets/b3e82dc9-8f86-4376-af93-d00097f34cf6" />
-<img width="630" alt="Screenshot 2025-01-23 at 10 56 50 AM" src="https://github.com/user-attachments/assets/5e57a1cf-44ed-406d-aa0b-1f7cadac2343" />
-<img width="655" alt="Screenshot 2025-01-23 at 10 57 01 AM" src="https://github.com/user-attachments/assets/65d45620-f0e4-4d95-a572-2b114a2920c4" />
-
+<img width="953" height="397" alt="Screenshot 2026-02-26 212235" src="https://github.com/user-attachments/assets/1165e955-819d-438e-9fce-bf0848f028bd" />
 
 ### Step 8: Configure Help Topics
 - Navigate to Admin Panel -> Manage -> Help Topics.
@@ -104,9 +101,9 @@ End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
   - Equipment Request
   - Password Reset
   - Other
-  <img width="638" alt="Screenshot 2025-01-23 at 10 57 35 AM" src="https://github.com/user-attachments/assets/1c6ceb7d-2df0-4f65-9190-456ce9a422a9" />
-<img width="615" alt="Screenshot 2025-01-23 at 10 58 15 AM" src="https://github.com/user-attachments/assets/20cf716b-9eb3-49f2-95ad-7a9db573dca1" />
-
+  
+<img width="628" height="624" alt="Screenshot 2026-02-26 212637" src="https://github.com/user-attachments/assets/37b01ba3-c7d0-48d6-91bb-ba67729d76a2" />
+<img width="947" height="736" alt="Screenshot 2026-02-26 213226" src="https://github.com/user-attachments/assets/d8369beb-1e80-4f9c-876a-0a4ed46e2d65" />
 
 ## Conclusion
 These steps complete the post-installation setup for osTicket. With these configurations, you can manage your help desk efficiently and ensure a smooth workflow for both agents and users.
